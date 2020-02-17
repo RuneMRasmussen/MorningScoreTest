@@ -13,7 +13,7 @@ Security comments: Not sure what to include here as the whole code/test can be e
 
 Lightweight?:
 It got nothing but a very simple function to change from the csv format to a JSON format.
-It could be considered to handle alot of different issues regarding parsig of csv files, but for this scope only a few things are handled.
+It could be considered to handle alot of different issues regarding parsnig of csv files, but for this scope only a few things are handled.
  - Removing whitespaces before/after text/numbers in fields
  - It's possible to change from a comma separated file to other kinds of separated files (fx. semicolon).
 
